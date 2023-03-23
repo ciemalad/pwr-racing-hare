@@ -1,0 +1,14 @@
+//
+// Created by de7f on 20.03.2023.
+//
+
+#ifndef PWR_RACING_RECRUTATION_TRIANGLE_H
+#define PWR_RACING_RECRUTATION_TRIANGLE_H
+
+
+class Triangle {
+
+};
+
+
+#endif //PWR_RACING_RECRUTATION_TRIANGLE_H
